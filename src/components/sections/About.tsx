@@ -97,7 +97,7 @@ export default function About() {
               <div className="relative aspect-[4/3] w-full overflow-hidden border border-bone/12">
                 <Image
                   src={images.about}
-                  alt="Completed KSB residence at night — lit modern elevation"
+                  alt="Completed KSB residence in daylight — modern double-storey elevation with stone cladding"
                   fill
                   sizes="(min-width:1024px) 50vw, 100vw"
                   quality={80}

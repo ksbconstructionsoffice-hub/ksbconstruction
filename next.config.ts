@@ -11,7 +11,7 @@ const nextConfig: NextConfig = {
     imageSizes: [16, 32, 48, 64, 96, 128, 256, 384, 512, 640],
     minimumCacheTTL: 21600,
     // Add the production host here once siteConfig.url is real:
-    // remotePatterns: [{ protocol: "https", hostname: "ksbconstructions.in" }],
+    // remotePatterns: [{ protocol: "https", hostname: "ksbconstruction.in" }],
   },
   reactStrictMode: true,
 };

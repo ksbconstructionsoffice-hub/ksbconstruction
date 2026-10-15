@@ -53,7 +53,7 @@ free-use stand-ins (Unsplash License) awaiting KSB site photography.*
 | `contact.phoneDisplay` | `+91 98765 43210` | Real phone number |
 | `contact.phoneHref` | `tel:+919876543210` | Matching `tel:` link |
 | `contact.whatsappNumber` | `919876543210` | Real WhatsApp number (digits only, with `91`) |
-| `contact.email` | `hello@ksbconstructions.in` | Real email |
+| `contact.email` | `ksbconstructionsoffice@gmail.com` | Real email |
 | `address.*` / `addressDisplay` | `Trichy, Tamil Nadu` | Full street address when available |
 | `mapEmbedUrl` / `mapLinkUrl` | Trichy placeholder | Exact Google Maps embed + link |
 | `social.instagram` / `.facebook` / `.youtube` | `#` | Real profile URLs |

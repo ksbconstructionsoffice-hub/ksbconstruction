@@ -18,7 +18,7 @@ export const siteConfig = {
   tamilCtaTranslated: "Let's build your dream home.",
 
   /* --------------------------------------------------------------- SEO ---- */
-  url: "https://ksbconstructions.in", // [SAMPLE DATA] production URL
+  url: "https://ksbconstruction.in", // production URL (Hostinger, via Vercel)
   title: "KSB Constructions | Construction Company in Trichy, Tamil Nadu",
   description:
     "KSB Constructions provides residential construction, commercial construction, renovation, planning and design solutions in Trichy, Tamil Nadu.",

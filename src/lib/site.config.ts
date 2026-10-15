@@ -42,8 +42,8 @@ export const siteConfig = {
   whatsappNumber: "918838461175",
   whatsappMessage:
     "Hi KSB Constructions, I would like to discuss a construction project.",
-  // [SAMPLE DATA] Replace with the real company e-mail before launch.
-  email: "info@ksbconstructions.com",
+  // Real company e-mail.
+  email: "ksbconstructionsoffice@gmail.com",
 
   /* -------------------------------------------------------------- FORM ---- */
   // [OPTIONAL] Serverless form endpoint (Formspree / Basin / your own API).
